@@ -1,7 +1,9 @@
+import ThinkingInReact from "./components/ThinkingInReact";
+
 const App = () => {
   return (
     <div>
-      <h1>Thinking in React</h1>
+      <ThinkingInReact />
     </div>
   );
 };
